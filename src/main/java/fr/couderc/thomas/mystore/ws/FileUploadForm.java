@@ -1,4 +1,4 @@
-package com.mkyong.rest;
+package fr.couderc.thomas.mystore.ws;
 
 import javax.ws.rs.FormParam;
 import org.jboss.resteasy.annotations.providers.multipart.PartType;
